@@ -1,0 +1,5 @@
+f=open("C:\\Users\\Administrator s\\Desktop\\arif.txt",'r')
+print("file object is opened")
+print(f)
+data=f.read()
+print(data)
