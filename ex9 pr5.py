@@ -1,4 +1,4 @@
-f=open("C:\\Users\\Administrator s\\Desktop\\demoarif.txt",'r')
+f=open("C:\\Users\\Administrator s\\Desktop\\demojagan.txt",'r')
 data=f.read()
 lw=data.split()
 d={}
